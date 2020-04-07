@@ -7,5 +7,3 @@ The parameters for the SAMPL6 hosts and guests with BCC and RESP charge schemes 
 The parameters folder contains host and guest structures (e.g. pdb, gro, inpcrd), charges (e.g. mol2, lib) and force field parameters (e.g. frcmod, top, prmtop).
 
 The AMBER_to_GMX format transformation is performed with the acpype tool.
-
-The GMX_plumed folder contains complex configurations, and plumed files for metadynamics simulations and post-processing reweighting.
